@@ -1,3 +1,9 @@
+#API Security
+Explain the key security measures that will be implemented (e.g., authentication, authorization, rate limiting). 
+Provide a brief explanation of why security is crucial for each key area of the project (e.g., protecting user data, securing payments, etc.).
+OpenAPI Standard: The backend APIs are documented using the OpenAPI standard to ensure clarity and ease of integration.
+Django REST Framework: Provides a comprehensive RESTful API for handling CRUD operations on user and property data.
+GraphQL: Offers a flexible and efficient query mechanism for interacting with the backend.
 #Feature Breakdown
 User Management: Implement a secure system for user registration, authentication, and profile management.
 Property Management: Develop features for property listing creation, updates, and retrieval.
